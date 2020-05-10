@@ -1,0 +1,200 @@
+PID,Name,Age,quarantine_days,country_name,HID
+1000,George,35,14,Japan,200
+1001,Adam,86,14,Japan,203
+1002,Tiffany,78,14,Japan,202
+1003,Ray,42,14,Japan,202
+1004,Rachel,68,14,Japan,201
+1005,Josephine,22,14,Japan,200
+1006,Abu,41,14,Japan,201
+1007,Salman,35,14,Japan,202
+1008,Faizan,15,8,Japan,200
+1009,Geun,23,6,Japan,200
+1010,Samad,45,20,Japan,201
+1011,Jessica,65,14,Japan,200
+1012,Brianna,18,13,Japan,203
+1013,Ahmed,19,12,Japan,200
+1014,Rooha,20,18,Japan,202
+1015,Drake,31,14,Japan,203
+1016,Paige,32,14,Japan,201
+1017,Chris,36,14,Japan,200
+1018,Ulla,40,14,Japan,201
+1019,Charlie,44,14,Japan,203
+1020,Ku,48,14,Japan,203
+1021,Ryan,52,14,Japan,201
+1022,Linda,56,14,Japan,200
+1023,Snow,60,14,China,304
+1024,Amirah,64,14,China,301
+1025,Kyle,68,7,China,303
+1026,Quentin,22,9,China,300
+1027,Bre,25,8,China,302
+1028,Liam,27,6,China,304
+1029,Noah,28,20,China,302
+1030,William,31,14,China,304
+1031,James,34,13,China,301
+1032,Oliver,37,12,China,302
+1033,Ben,40,18,China,304
+1034,Eli,43,14,China,302
+1035,Lucas,46,14,China,301
+1036,Mason,49,14,China,304
+1037,Logan,52,14,Belgium,402
+1038,Emma,55,14,Belgium,400
+1039,Olivia,58,25,Belgium,401
+1040,Ava,61,20,Belgium,401
+1041,Isabella,64,19,Belgium,401
+1042,Sophia,67,10,Belgium,402
+1043,Charlotte,70,11,Belgium,400
+1044,Mia,29,13,Belgium,402
+1045,Amelia,32,7,Belgium,402
+1046,Harper,35,30,Belgium,400
+1047,Eve,38,14,Belgium,400
+1048,Colin,41,14,Belgium,402
+1049,Andrea,44,14,United States,100
+1050,Gavin,47,14,United States,101
+1051,Victor,50,14,United States,102
+1052,Julia,53,20,United States,102
+1053,Tina,56,8,United States,103
+1054,Anna,59,6,United States,104
+1055,Anne,62,5,United States,105
+1056,Billy,65,4,United States,106
+1057,Marysia,68,7,United States,107
+1058,Anthony,71,9,United States,108
+1059,Tony,16,11,United States,109
+1060,Jack,19,13,United States,109
+1061,Paul,22,15,United States,110
+1062,Gael,25,17,United States,111
+1063,Perry,28,14,United States,112
+1064,Nikki,31,14,United States,113
+1065,Patricia,34,14,United States,114
+1066,Lee,37,14,United States,106
+1067,Jackie,40,12,United States,107
+1068,David,43,18,United States,108
+1069,Hugh,46,14,United States,109
+1070,Dorothy,49,14,United States,109
+1071,Julia,52,14,United States,110
+1072,Bethan,55,14,United States,111
+1073,Drew,58,14,United States,112
+1074,Pete,61,19,United States,113
+1075,Locky,64,5,United States,114
+1076,Eddie,25,2,United States,102
+1077,Susan,35,4,United States,102
+1078,Susie,45,6,United States,103
+1079,Vincent,55,8,United States,104
+1080,Elise,65,10,United States,105
+1081,Nicola,75,12,United States,106
+1082,Suse,85,14,United States,111
+1083,Steve,12,14,United States,113
+1084,Steven,22,14,United States,100
+1085,Lorraine,23,14,United States,101
+1086,Jill,24,14,United States,100
+1087,Cedric,65,28,United States,112
+1088,Lyn,55,10,United States,110
+1089,Torsten,38,12,United States,111
+1090,Tracy,39,16,United States,112
+1091,Oscar,34,18,United States,113
+1092,Pae,36,13,United States,114
+1093,Juan,40,7,United States,106
+1094,Ulf,76,9,United States,107
+1095,Ghislaine,27,8,United States,108
+1096,Kathy,23,6,United States,109
+1097,Philippa,24,20,United States,109
+1098,Neil,65,14,United States,110
+1099,Marysia,55,13,United States,111
+1100,Vibeke,38,12,United States,112
+1101,Dugald,39,18,United States,113
+1102,Gordon,34,14,United States,114
+1103,Cccile,36,14,United States,108
+1104,Annet,15,14,United States,109
+1105,Thierry,23,13,United States,109
+1106,Alan,45,12,United States,110
+1107,Catsou,65,18,United States,111
+1108,Ursula,18,5,United States,112
+1109,Vong,19,7,United States,102
+1110,Weibke,20,9,United States,103
+1111,Thierry,31,8,United States,108
+1112,Annie,32,6,United States,109
+1113,Guy,36,20,United States,109
+1114,Yoshiko,40,14,United States,113
+1115,Hannah,44,13,United States,114
+1116,Valerie,48,12,United States,112
+1117,Hazel,52,18,Germany,500
+1118,Cornelia,56,14,Germany,501
+1119,Judy,60,14,Germany,502
+1120,Matthew,23,13,Germany,503
+1121,Matthias,33,12,Germany,501
+1122,Matt,43,18,Germany,501
+1123,Dylan,53,17,Germany,503
+1124,Dillon,63,19,Germany,503
+1125,Patty,73,20,Germany,502
+1126,Philipp,83,14,Germany,501
+1127,Phillip,44,14,Germany,503
+1128,Ian,54,14,Germany,501
+1129,Chiza,64,14,Germany,502
+1130,Thomas,74,14,Germany,503
+1131,Ina,19,21,Germany,503
+1132,Rimsha,20,30,Germany,502
+1133,Rosie,31,34,Germany,503
+1134,Fiza,32,14,Germany,502
+1135,Penny,36,14,Germany,502
+1136,Cliff,40,14,Germany,502
+1137,Randy,44,14,Germany,502
+1138,Betsy,48,14,Germany,503
+1139,Erika,52,8,Germany,503
+1140,Marty,56,13,Germany,501
+1141,Ophelia,60,12,Germany,503
+1142,Virginia,23,30,Germany,503
+1143,Wanda,33,32,Germany,503
+1144,Teresa,43,29,Germany,501
+1145,Henri,53,15,Germany,503
+1146,Claudette,9,16,Germany,501
+1147,Odette,13,14,Germany,501
+1148,Joaquin,17,14,Germany,503
+1149,Mindy,21,14,Germany,501
+1150,Rose,25,14,Italy,600
+1151,Danielle,29,14,Italy,602
+1152,Earl,33,14,Italy,601
+1153,Fiona,37,8,Italy,603
+1154,Hermine,41,8,Italy,600
+1155,Otto,45,8,Italy,600
+1156,Jax,49,7,Italy,602
+1157,Walter,53,7,Italy,601
+1158,Whitney,57,6,Italy,602
+1159,Wilfred,61,4,Italy,600
+1160,Vicky,65,8,Italy,602
+1161,Teddy,12,9,Italy,601
+1162,Paulette,18,10,Italy,603
+1163,Marco,24,14,Italy,600
+1164,Gonzalo,30,14,Italy,603
+1165,Fay,36,14,Italy,603
+1166,Edward,42,14,Italy,600
+1167,Critobal,48,14,Italy,602
+1168,Arthur,54,4,Italy,601
+1169,Chantal,60,4,Italy,601
+1170,Dorian,66,5,Italy,603
+1171,Erin,72,8,Italy,603
+1172,Aaron,78,11,Italy,601
+1173,Fernand,84,13,Italy,603
+1174,Gabrielle,90,16,Italy,601
+1175,Humberto,14,15,Italy,601
+1176,Imelda,16,12,Brazil,700
+1177,Jerry,18,9,Brazil,702
+1178,Lorenzo,20,7,Brazil,701
+1179,Nestor,22,6,Brazil,703
+1180,Olga,24,19,Brazil,702
+1181,Rebekah,26,14,Brazil,703
+1182,Sebastian,28,14,Brazil,700
+1183,Tanya,30,14,Brazil,702
+1184,Van,32,14,Brazil,700
+1185,Rafael,34,14,Brazil,702
+1186,Nadine,36,23,Brazil,700
+1187,Leslie,38,12,Brazil,702
+1188,Kirk,40,14,Brazil,700
+1189,Joyce,42,16,Spain,800
+1190,Florence,44,18,Spain,802
+1191,Deb,46,20,Spain,801
+1192,Beryl,48,12,Spain,803
+1193,Alberto,50,13,Spain,802
+1194,Aerial,52,14,Spain,800
+1195,Don,54,15,Spain,800
+1196,Franklin,56,16,Spain,801
+1197,Gert,58,17,Spain,803
+1198,Harvey,60,18,Spain,802
